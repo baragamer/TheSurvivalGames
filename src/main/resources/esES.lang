@@ -12,4 +12,16 @@ BEEN_ENABLED = se ha habilitado!
 COMMUNITY_PROJECT = es un proyecto comunitario, entra en  http://dev.bukkit.org/bukkit-plugins/the-survival-games/
 BEEN_DISABLED = se deshabilitó.
 SURVIVAL_GAMES = Juegos del hambre
-# Rest indev
+# Scoreboard #
+COULD_NOT_CREATE = No se pudo crear el scoreboard para el jugador
+WELCOME = Bienvenido
+POINTS = Puntos
+RANK = Rangos
+KILLS = Bajas
+WINS = Victorias
+WAITING_FOR_PLAYERS = Esperando jugadores...
+MAX_PLAYERS = Máximo jugadores
+MIN_PLAYERS = Minimo jugadores
+PLAYERS = Jugadores
+CLASS = Clase
+
